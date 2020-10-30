@@ -36,7 +36,7 @@ while(True):
 			exponents.append(float(exponent))
 			i += 1
 
-		#Yell at the user if the input exponent is not an integer
+		#Yell at the user if the input exponent is not a number
 		except:
 			print("You did not enter a number. Try again.")	
 
